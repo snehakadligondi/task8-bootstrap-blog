@@ -1,0 +1,4 @@
+/* assets/css/style.css */
+.card-img-top { height: 200px; object-fit: cover; }
+.card-title { min-height: 3rem; } /* keep titles aligned */
+header { background: linear-gradient(90deg,#0d6efd,#5aa0ff); }
